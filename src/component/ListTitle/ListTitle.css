@@ -1,0 +1,10 @@
+.list__listTitle {
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+
+    position: fixed;
+    top: 169px;
+}
+

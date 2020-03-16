@@ -1,0 +1,10 @@
+.listTitle__item {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.listTitle__itemName {
+    margin: 10px 0;
+}

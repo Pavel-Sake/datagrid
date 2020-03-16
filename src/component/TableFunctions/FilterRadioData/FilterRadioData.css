@@ -1,0 +1,10 @@
+.label__radio {
+    margin-bottom: 5px;
+}
+
+.formRadio {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
