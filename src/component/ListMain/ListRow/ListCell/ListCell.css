@@ -1,0 +1,7 @@
+.list__listCell {
+    padding: 5px;
+    border-right: 1px solid black;
+
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

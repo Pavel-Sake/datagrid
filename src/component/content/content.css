@@ -1,0 +1,16 @@
+.content {
+    max-width: 1200px;
+    width: 100%;
+
+    background: #cbcbcb;
+}
+
+.header {
+    background: #7e9273;
+}
+
+.header__title {
+
+    text-align: center;
+    text-shadow: 2px 2px 5px #4e2d3a;
+}

@@ -1,0 +1,16 @@
+.listMain__listRow {
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+
+    border-bottom: 1px solid black;
+}
+
+.listMain__listRow--colorWhite {
+     background: white;
+ }
+
+.listMain__listRow--colorGrey {
+    background: #e1e9eff2;
+}

@@ -1,0 +1,6 @@
+.list-main {
+    height: 100vh;
+    /*margin-top: 255px;*/
+
+    overflow: scroll;
+}

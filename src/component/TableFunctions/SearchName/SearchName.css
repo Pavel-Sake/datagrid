@@ -1,0 +1,22 @@
+
+.searchName__label {
+    margin-bottom: 5px;
+}
+
+.table-functions__inputSearch {
+    padding: 5px;
+
+    font-size: 14px;
+
+    border: 1px solid gray;
+    outline: none;
+    border-radius: 6px;
+
+    transition: background-color 0.3s;
+}
+
+.table-functions__inputSearch:hover {
+    cursor: pointer;
+
+    border: 1px solid green;
+}

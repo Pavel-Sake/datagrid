@@ -1,0 +1,10 @@
+.table-functions {
+    padding: 15px 0;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+
+    top: 85px;
+}
